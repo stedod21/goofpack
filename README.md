@@ -13,9 +13,26 @@ Fucked up in the crib goin', goin' dumb
 |:------:|:----:|
 | Julius |   °  |
 | Humpel |   ~  |
+
 ### Mobs
-* Ghast (LobotomyCraft)
-* Creeper (LobotomyCraft)
-* Slime (LobotomyCraft)
+* Lobotomy Ghast
+* Lobotomy Creeper
+* Lobotomy Slime
 * Humpel Villager
 * Silly Car (Sounds Only)
+* Julius Zombie (Textures Only)
+* Humpel Enderman (Textures Only)
+
+### Items
+* Totem Cross
+* Dietma Balls Ender Pearl
+
+### Environment
+* Lebron Sun (You are my sunshine)
+
+### Sounds
+#### Ambient
+* Cave Sounds (Polish)
+
+### Paintings
+* Skull Spinning (4x4)
