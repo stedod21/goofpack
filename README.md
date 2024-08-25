@@ -13,3 +13,7 @@ Fucked up in the crib goin', goin' dumb
 |:------:|:----:|
 | Julius |   °  |
 | Humpel |   ~  |
+### Mobs
+* Ghast (LobotomyCraft)
+* Creeper (LobotomyCraft)
+* Slime (LobotomyCraft)
