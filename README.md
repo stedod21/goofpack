@@ -17,3 +17,4 @@ Fucked up in the crib goin', goin' dumb
 * Ghast (LobotomyCraft)
 * Creeper (LobotomyCraft)
 * Slime (LobotomyCraft)
+* Humpel Villager
