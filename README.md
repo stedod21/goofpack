@@ -18,3 +18,4 @@ Fucked up in the crib goin', goin' dumb
 * Creeper (LobotomyCraft)
 * Slime (LobotomyCraft)
 * Humpel Villager
+* Silly Car (Sounds Only)
