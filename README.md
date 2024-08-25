@@ -7,3 +7,9 @@ Fucked up in the crib playin' WiWi
 Fucked up in the crib eatin' Creme Betweens
 Fucked up in the crib and I'm playin' UM
 Fucked up in the crib goin', goin' dumb
+## Features
+### Chat-Emotes
+|  Emote | Code |
+|:------:|:----:|
+| Julius |   °  |
+| Humpel |   ~  |
